@@ -44,4 +44,7 @@ Focus on products with stable prices to ensure consistent profits.
 “Brazilian E-Commerce Public Dataset by Olist,” Kaggle. 
 [Olist Brazilian E-Commerce Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
+---
+### worksheet
+[google drive](https://drive.google.com/drive/folders/1-wUTN14z8Ght-ZEAEIU90pZh8VxNhLge?usp=sharing)
  
